@@ -22,8 +22,8 @@ The ideal user for this website is:
   
 ### User-Stories
 #### Current User Goals
-1. As a current user, I want to see 
-2. As a current user, I want to easily navigate through the site and access the information I require with ease.
+1. As a current user, I want to 
+2. As a current user, I want to easily navigate through the site and access the information I require.
 3. As a current user, I want to easily navigate to content I have previously viewed within a small number of steps.
 
 #### New User Goals
