@@ -64,14 +64,24 @@ h2 {}
 
 #intro-head {
     text-align: center;
+    padding: 30px 0 30px 0;
 }
 
 #intro-container {
     width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
 }
 
-.intro-physio-options {
+.intro-physio-col {
     border: 1px solid red;
-    width: 25%;
-    display: inline;
+    border-radius: 2%;
+    flex: 20%;
+    box-sizing: border-box;
+    height: 300px;
+    margin: 20px;
+    padding: 30px;
 }
