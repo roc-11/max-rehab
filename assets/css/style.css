@@ -55,3 +55,23 @@ h2 {}
     width: 100%;
     background: url('../images/hero-image.jpg') no-repeat center center;
 }
+
+/* intro section */
+#intro {
+    height: 600px;
+    border: 1px solid black;
+}
+
+#intro-head {
+    text-align: center;
+}
+
+#intro-container {
+    width: 100%;
+}
+
+.intro-physio-options {
+    border: 1px solid red;
+    width: 25%;
+    display: inline;
+}
