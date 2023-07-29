@@ -1,6 +1,6 @@
 /* import fonts from Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;1,300&display=swap');
 
 * {
     margin: 0;
@@ -9,8 +9,7 @@
 }
 
 body {
-    /* font-family: 
-    font-weight: */
+    font-family: 'Krub', 'Lato', sans-serif;
     color: #3a3a3a
 }
 
@@ -22,7 +21,11 @@ body {
 
 /* headings and logo */
 h1,
-h2 {}
+h2,
+h3 {
+    font-family: 'Chivo', 'Lato', sans-serif;
+    text-transform: uppercase;
+}
 
 #logo {
     float: left;
@@ -33,8 +36,9 @@ h2 {}
 
 /* navigation links */
 #menu {
-    font-size: 120%;
+    font-size: 100%;
     letter-spacing: 4px;
+    text-transform: uppercase;
 }
 
 #menu,
@@ -53,11 +57,52 @@ h2 {}
     color: inherit;
 }
 
+#menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
+
 /* homepage hero image */
+#hero-outer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
 #hero-image {
     height: 600px;
     width: 100%;
     background: url('../images/hero-image.jpg') no-repeat center center;
+    z-index: -1;
+    background-color: rgba(88, 92, 96, 0.6);
+    background-blend-mode: multiply;
+}
+
+#main-heading {
+    color: #f7f9fb;
+    z-index: 1;
+    padding-top: 200px;
+    font-size: 200%;
+    letter-spacing: 2px;
+
+    /* animates title text */
+    animation: fadeIn 5s;
+}
+
+/* creates the main title fade-in animation */
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
 }
 
 /* intro section */
