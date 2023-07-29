@@ -113,3 +113,22 @@ iframe {
     flex: 20%;
     box-sizing: border-box;
 }
+
+#socials {
+    padding: 10px;
+}
+
+footer img {
+    width: 50%;
+}
+
+#socials li {
+    display: inline;
+}
+
+#socials i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #f7f9fb;
+}
