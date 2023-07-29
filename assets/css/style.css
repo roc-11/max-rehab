@@ -77,13 +77,24 @@ h2 {}
 }
 
 .intro-physio-col {
-    /* border: 1px solid red;
-    border-radius: 2%; */
+    border-radius: 4%;
+    box-shadow: 5px 10px #888888;
     flex: 20%;
     box-sizing: border-box;
     height: 350px;
     margin: 20px;
     padding: 30px;
+    color: #f7f9fb;
+    background-color: #687864;
+}
+
+# .button {
+    background-color: #5085a5;
+    color: white;
+    padding: 15px 25px;
+    text-decoration: none;
+    border-radius: 4%;
+    box-shadow: 5px 5px #31708e;
 }
 
 /* footer */
