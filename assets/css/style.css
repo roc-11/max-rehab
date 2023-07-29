@@ -58,9 +58,9 @@ h2 {}
 
 /* intro section */
 #intro,
-#insurance {
+#insurance,
+#reviews {
     height: 600px;
-    border: 1px solid black;
 }
 
 #intro-head,
@@ -114,6 +114,26 @@ h2 {}
 /* insurance section */
 #insurance {
     background-color: #5085a5;
+}
+
+#insurance-wrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.insurance-images {
+    width: 20%;
+    margin: 20px;
+    padding: 30px;
+}
+
+/* reviews section */
+#reviews {
+    background-color: #f7f9fb;
 }
 
 /* footer */
