@@ -207,6 +207,9 @@ h3 {
 /* insurance section */
 #insurance {
     background-color: #717171;
+    color: #f7f9fb;
+    line-height: 1.6;
+    margin-top: 50px;
 }
 
 #insurance-wrapper {
@@ -216,6 +219,21 @@ h3 {
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
+}
+
+#insurance h2,
+h3 {
+    letter-spacing: 4px;
+}
+
+#insurance h3 {
+    font-weight: 300;
+    font-size: 100%;
+    margin-bottom: 15px;
+}
+
+#insurance h2 {
+    margin-bottom: 50px;
 }
 
 .insurance-images {
