@@ -17,6 +17,7 @@ body {
     background-color: #f7f9fb;
     position: fixed;
     width: 100%;
+    z-index: 3;
 }
 
 .button {
@@ -33,6 +34,12 @@ body {
 
 .button:hover {
     background-color: #505c4d;
+}
+
+hr {
+    border-top: 2px solid #505c4d;
+    width: 80%;
+    margin: 0 auto;
 }
 
 /* headings and logo */
@@ -207,8 +214,8 @@ h3 {
 
 /* insurance section */
 #insurance {
-    background-color: #717171;
-    color: #f7f9fb;
+    /*background-color: #717171;
+    color: #f7f9fb;*/
     line-height: 1.6;
 }
 
@@ -249,7 +256,7 @@ h3 {
 
 /* reviews section */
 #reviews {
-    background-color: #f7f9fb;
+    /*background-color: #f7f9fb;*/
 }
 
 #reviews-head {
