@@ -289,3 +289,13 @@ iframe {
     padding: 5%;
     color: #f7f9fb;
 }
+
+#opening-times table {
+    width: 60%;
+    line-height: 30px;
+}
+
+#contact-info ul {
+    line-height: 30px;
+    list-style-type: none;
+}
