@@ -185,6 +185,15 @@ h3 {
     padding: 30px;
     color: #f7f9fb;
     background-color: #687864;
+    line-height: 1.6;
+}
+
+.intro-physio-col h3 {
+    text-transform: capitalize;
+}
+
+.intro-physio-col p {
+    padding-top: 10px;
 }
 
 #intro-button {
@@ -197,7 +206,7 @@ h3 {
 
 /* insurance section */
 #insurance {
-    background-color: #5085a5;
+    background-color: #717171;
 }
 
 #insurance-wrapper {
