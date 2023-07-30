@@ -279,6 +279,10 @@ iframe {
     padding: 10px;
 }
 
+#socials-wrapper {
+    margin-top: 105px;
+}
+
 #socials li {
     display: inline;
 }
