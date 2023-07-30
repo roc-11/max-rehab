@@ -299,3 +299,7 @@ iframe {
     line-height: 30px;
     list-style-type: none;
 }
+
+#contact-info i {
+    padding-right: 20px;
+}
