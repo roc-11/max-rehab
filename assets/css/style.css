@@ -19,6 +19,22 @@ body {
     width: 100%;
 }
 
+.button {
+    background-color: #81927d;
+    color: white;
+    padding: 15px 25px;
+    text-decoration: none;
+    border-radius: 4%;
+    margin: 0 auto;
+    font-family: 'Chivo', 'Lato', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.button:hover {
+    background-color: #505c4d;
+}
+
 /* headings and logo */
 h1,
 h2,
@@ -79,8 +95,22 @@ h3 {
     width: 100%;
     background: url('../images/hero-image.jpg') no-repeat center center;
     z-index: -1;
-    background-color: rgba(88, 92, 96, 0.6);
+    background-color: rgba(88, 92, 96, 0.7);
     background-blend-mode: multiply;
+
+    /* animates hero image */
+    animation: heroFade 3s;
+}
+
+/* creates the hero image fade-in animation */
+@keyframes heroFade {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
 }
 
 #main-heading {
@@ -91,7 +121,16 @@ h3 {
     letter-spacing: 2px;
 
     /* animates title text */
-    animation: fadeIn 5s;
+    animation: fadeIn 6s;
+}
+
+#sub-heading {
+    color: #f7f9fb;
+    padding-top: 110px;
+    letter-spacing: 2px;
+    font-size: 120%;
+    /* animates sub-title text */
+    animation: fadeIn 7s;
 }
 
 /* creates the main title fade-in animation */
@@ -103,6 +142,15 @@ h3 {
     100% {
         opacity: 1;
     }
+}
+
+#hero-button {
+    /* animates button fade-in */
+    animation: fadeIn 8s;
+}
+
+#hero-image>div {
+    margin-top: 100px;
 }
 
 /* intro section */
@@ -145,19 +193,6 @@ h3 {
     display: flex;
     align-items: center;
     justify-content: center;
-}
-
-.button {
-    background-color: #5085a5;
-    color: white;
-    padding: 15px 25px;
-    text-decoration: none;
-    border-radius: 4%;
-    margin: 0 auto;
-}
-
-.button:hover {
-    background-color: #31708e;
 }
 
 /* insurance section */
@@ -203,7 +238,7 @@ iframe {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around;
-    background-color: #31708e;
+    background-color: #505c4d;
 }
 
 .footer-col {
@@ -215,10 +250,6 @@ iframe {
 
 #socials {
     padding: 10px;
-}
-
-footer img {
-    width: 50%;
 }
 
 #socials li {
