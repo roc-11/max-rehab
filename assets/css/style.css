@@ -335,7 +335,7 @@ h3 {
 .form-section {
     clear: left;
     background: url("../images/form-background.jpg");
-    background-color: rgba(88, 92, 96, 0.3);
+    background-color: rgba(88, 92, 96, 0.6);
     background-blend-mode: multiply;
     background-size: cover;
     background-position: center;
@@ -346,7 +346,7 @@ h3 {
 .contact-us-form {
     margin: 150px 10% 0 0;
     color: #f7f9fb;
-    background-color: rgba(80, 92, 77, 0.6);
+    background-color: rgba(80, 92, 77, 0.8);
     max-width: 500px;
     position: absolute;
     padding: 30px;
