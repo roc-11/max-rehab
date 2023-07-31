@@ -237,9 +237,12 @@ h3 {
     letter-spacing: 4px;
 }
 
-#insurance h3 {
+.title-thin {
     font-weight: 300;
     font-size: 100%;
+}
+
+#insurance h3 {
     margin-bottom: 15px;
     margin-top: 50px;
 }
@@ -392,6 +395,39 @@ h3 {
 .submit-enquiry-button:hover {
     background-color: #fafafa;
     color: #f16c6b;
+}
+
+/* about us */
+.container {
+    /* 1140px */
+    max-width: 120rem;
+    padding: 0 3.2rem;
+    margin: 0 auto;
+}
+
+.grid {
+    display: grid;
+    column-gap: 6.4rem;
+    row-gap: 4.3rem;
+}
+
+.container-two-cols {
+    /* make two columns for each therapist's information */
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.therapist-title {
+    margin-top: 10px;
+    background-color: #81927d;
+    line-height: 1.2;
+    padding: 5px;
+    font-size: 0.8rem;
+}
+
+.therapist-qual {
+    font-size: 0.8rem;
+    margin-top: 0.5rem;
+    margin-bottom: 2rem;
 }
 
 /* footer */
