@@ -525,7 +525,7 @@ iframe {
 }
 
 /* media queries for responsive design */
-@media screen and (max-width: 1830px) {
+@media screen and (max-width: 1183px) {
     .intro-physio-col {
         flex: 30%;
     }
@@ -544,8 +544,15 @@ iframe {
 
     #logo {
         display: block;
-        width: 40%;
-        float: center;
+        width: 50%;
+        float: none;
+        margin: auto;
+    }
+
+    .container {
+        grid-template-columns: 2fr;
+        padding: 3.1rem 8rem;
+        gap: 6.4rem;
     }
 }
 
@@ -561,7 +568,31 @@ iframe {
         letter-spacing: 2px;
     }
 
+    /* PROB - make flex footer display column instead of 3 rows */
+    #footer-box {
+        display: flex;
+        flex-direction: column;
+        flex-basis: 100%;
+        flex: 1;
+    }
+
+    .footer-col {
+        flex: 1;
+    }
+}
+
+/* For Small screen sizes from 580px wide and down */
+@media screen and (max-width: 580px) {
+
     .intro-physio-col {
-        flex: 90%;
+        flex: 80%;
+    }
+
+    .grid {
+        row-gap: 3.6rem;
+    }
+
+    .grid-2-cols {
+        grid-template-columns: 1fr;
     }
 }
