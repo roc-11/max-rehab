@@ -528,6 +528,15 @@ iframe {
 @media screen and (max-width: 1183px) {
     .intro-physio-col {
         flex: 30%;
+        height: auto;
+    }
+
+    #insurance-hr {
+        margin-top: 6rem;
+    }
+
+    #insurance {
+        height: auto;
     }
 }
 
@@ -558,6 +567,10 @@ iframe {
     .contact-us-form {
         margin-top: 210px;
     }
+
+    #insurance-hr {
+        margin-top: 10rem;
+    }
 }
 
 /* For medium screen sizes from 800px wide and down */
@@ -583,6 +596,23 @@ iframe {
     .footer-col {
         flex: 1;
     }
+
+    #insurance-hr {
+        margin-top: 12rem;
+    }
+
+    .insurance-images {
+        display: block;
+        width: 50%;
+        margin: 0 auto;
+    }
+}
+
+/* for the intro col */
+@media screen and (max-width: 670px) {
+    #insurance-hr {
+        margin-top: 15rem;
+    }
 }
 
 /* For Small screen sizes from 580px wide and down */
@@ -590,6 +620,7 @@ iframe {
 
     .intro-physio-col {
         flex: 80%;
+        height: auto;
     }
 
     .grid {
