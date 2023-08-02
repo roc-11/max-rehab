@@ -98,7 +98,7 @@ h3 {
 }
 
 #hero-image {
-    height: 600px;
+    height: 500px;
     width: 100%;
     background: url('../images/hero-image.jpg') no-repeat center center;
     z-index: -1;
@@ -151,17 +151,21 @@ h3 {
     }
 }
 
-#hero-button {
-    /* animates button fade-in */
-    animation: fadeIn 5s;
-}
-
 #hero-image>div {
     margin-top: 100px;
 }
 
 .front {
     z-index: 3;
+}
+
+.button-div {
+    margin: 50px 0 50px 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 /* intro section */
