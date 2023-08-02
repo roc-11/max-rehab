@@ -523,3 +523,36 @@ iframe {
 .footer-link:hover {
     color: #3a3a3a;
 }
+
+/* media queries for responsive design */
+
+/* For medium screen sizes from 950px wide and down */
+
+@media screen and (max-width: 950px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+
+    #logo {
+        display: block;
+        width: 40%;
+        float: center;
+    }
+}
+
+/* For medium screen sizes from 800px wide and down */
+
+@media screen and (max-width: 800px) {
+    #menu {
+        font-size: 90%;
+    }
+
+    #menu li {
+        margin-right: 20px;
+        letter-spacing: 2px;
+    }
+}
