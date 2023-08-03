@@ -473,6 +473,7 @@ iframe {
     flex-wrap: wrap;
     justify-content: space-around;
     background-color: #505c4d;
+    align-items: center;
 }
 
 .footer-col {
@@ -484,10 +485,6 @@ iframe {
 
 #socials {
     padding: 10px;
-}
-
-#socials-wrapper {
-    margin-top: 105px;
 }
 
 #socials li {
@@ -585,16 +582,37 @@ iframe {
         letter-spacing: 2px;
     }
 
-    /* PROB - make flex footer display column instead of 3 rows */
+    /* make flexbox footer display 1 column instead of 3 rows for small devices */
     #footer-box {
         display: flex;
         flex-direction: column;
-        flex-basis: 100%;
-        flex: 1;
+        flex-wrap: nowrap;
+        height: auto;
+        justify-content: center;
+        align-items: center;
     }
 
+    /* to center the content of each footer div */
     .footer-col {
-        flex: 1;
+        width: 100%;
+        flex: 100%;
+        text-align: center;
+        line-height: 40px;
+    }
+
+    #opening-times {
+        width: 100%;
+    }
+
+    #opening-times table {
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    /* to change the order of elements in the footer. 1. Opening times 2. contact info 3. socials */
+    #footer-box :nth-child(1) {
+        /*put social media icons at bottom of footer */
+        order: 3;
     }
 
     .insurance-images {
