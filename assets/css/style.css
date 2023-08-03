@@ -578,6 +578,18 @@ iframe {
         margin-top: 210px;
     }
 
+    /* change the order of the left/right grid-columns for responsive design */
+    #physio2-about1 {
+        order: 1;
+    }
+
+    #physio2-about2 {
+        order: 2;
+    }
+
+    .physio3 {
+        order: 3;
+    }
 }
 
 /* For medium screen sizes from 800px wide and down */
