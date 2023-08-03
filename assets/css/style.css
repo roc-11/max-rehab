@@ -398,6 +398,15 @@ h3 {
 .submit-enquiry-button:hover {
     background-color: #fafafa;
     color: #e88700;
+    cursor: pointer;
+}
+
+.form-section input[type="submit"] {
+    cursor: pointer;
+}
+
+#thank-you {
+    max-width: 800px;
 }
 
 /* about us */
