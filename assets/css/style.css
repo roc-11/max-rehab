@@ -440,8 +440,7 @@ h3 {
 }
 
 .linked-in {
-    width: 70%;
-    text-align: left;
+    text-align: center;
     height: 0.5rem;
 }
 
@@ -452,6 +451,11 @@ h3 {
 
 #about-physios {
     margin-bottom: 5rem;
+}
+
+.image-col {
+    margin: 0 auto;
+    text-align: center;
 }
 
 /* footer */
