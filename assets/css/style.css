@@ -563,12 +563,20 @@ iframe {
 /* For medium screen sizes from 950px wide and down */
 
 @media screen and (max-width: 950px) {
+    nav {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
     #menu {
-        clear: left;
-        float: left;
         margin-left: 30px;
         margin-bottom: 20px;
         line-height: 25px;
+    }
+
+    nav li {
+        text-align: center;
     }
 
     #logo {
