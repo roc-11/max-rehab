@@ -169,9 +169,7 @@ h3 {
 }
 
 /* intro section */
-#intro,
-#insurance,
-#reviews {
+.home-section {
     height: 600px;
 }
 
@@ -184,6 +182,7 @@ h3 {
 
 #intro-container {
     width: 100%;
+    max-width: 1500px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -257,83 +256,28 @@ h3 {
     margin-bottom: 60px;
 }
 
-.insurance-images {
+.cols-3 {
     width: 20%;
     margin: 20px;
     padding: 30px;
 }
 
 /* reviews section */
-#reviews {
-    /*background-color: #f7f9fb;*/
+
+.reviews-wrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
 }
 
 #reviews-head {
     text-align: center;
     padding: 30px 0 30px 0;
     letter-spacing: 4px;
-}
-
-/* reviews slider (YouTube Tutorial by Skillthrive @ https: //www.youtube.com/watch?v=McPdzhLRzCg ) */
-.reviews-container {
-    padding: 2rem;
-}
-
-.slider-wrapper {
-    position: relative;
-    max-width: 48rem;
-    margin: 0 auto;
-}
-
-.slider {
-    display: flex;
-    aspect-ratio: 16 / 9;
-    /* hide images that are overflowing outside the container */
-    overflow-x: auto;
-    /* change the behaviour of the scrollbar to create slider effect */
-    scroll-snap-type: x mandatory;
-    /* create a smooth animation when sliding */
-    scroll-behavior: smooth;
-    box-shadow: 0 1.5rem 3rem -0.75rem hsla(0, 0%, 0%, 0.25);
-    border-radius: 0.5rem;
-}
-
-.slider img {
-    /* shorthand set flexGrow, flexShrink, flexBasis */
-    flex: 1, 0, 100%;
-    /* complete slider scroll snap effect */
-    scroll-snap-align: start;
-    object-fit: cover;
-}
-
-.slider-nav {
-    display: flex;
-    column-gap: 1rem;
-    position: absolute;
-    bottom: 1.25rem;
-
-    /* centre the nav */
-    left: 50%;
-    transform: translateX(-50%);
-
-    /* ensure nav stays on top of slider */
-    z-index: 2;
-}
-
-.slider-nav a {
-    /* style the slider navigation buttons */
-    width: 0.5rem;
-    height: 0.5rem;
-    border-radius: 50%;
-    background-color: #f7f9fb;
-    opacity: 0.75;
-    /* smooth animation when user hovers over button */
-    transition: opacity ease 250ms;
-}
-
-.slider-nav a:hover {
-    /* complete hover effect */
-    opacity: 1;
 }
 
 /* contact us form */
