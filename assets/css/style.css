@@ -499,8 +499,14 @@ iframe {
 }
 
 #opening-times table {
-    width: 60%;
+    width: 80%;
     line-height: 30px;
+}
+
+.highlight {
+    /* to highlight the opening times on the footer */
+    font-weight: bold;
+    color: #e88700;
 }
 
 #contact-info ul {
