@@ -620,6 +620,16 @@ iframe {
     .physio3 {
         order: 3;
     }
+
+    #service-intro .container {
+        padding: 0 4rem;
+    }
+
+    #services-head,
+    #visit-head,
+    #your-visit {
+        margin-bottom: 1rem;
+    }
 }
 
 /* For medium screen sizes from 800px wide and down */
@@ -687,6 +697,10 @@ iframe {
         width: 80%;
         margin: 0 auto;
         text-align: center;
+    }
+
+    #your-visit-wrapper {
+        padding: 0rem 4rem;
     }
 }
 
