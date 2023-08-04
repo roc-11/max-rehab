@@ -707,6 +707,11 @@ iframe {
     #your-visit-wrapper {
         padding: 0rem 4rem;
     }
+
+    #about-physios .container,
+    #about-main {
+        padding: 0 4rem;
+    }
 }
 
 /* For Small screen sizes from 580px wide and down */
