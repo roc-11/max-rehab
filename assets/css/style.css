@@ -453,8 +453,8 @@ h3 {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-around;
     align-items: center;
+    justify-content: center;
     text-align: center;
     max-width: 1500px;
 }
