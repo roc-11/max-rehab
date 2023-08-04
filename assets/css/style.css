@@ -476,6 +476,10 @@ h3 {
     margin: 1rem 0 1rem 0;
 }
 
+#youtube-vid {
+    margin-top: 4rem;
+}
+
 /* footer */
 footer {
     color: #f7f9fb;
