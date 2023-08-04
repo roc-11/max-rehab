@@ -105,8 +105,8 @@ h3 {
     background-color: rgba(88, 92, 96, 0.7);
     background-blend-mode: multiply;
 
-    /* animates hero image */
-    animation: heroFade 3s;
+    /* animates hero image 
+    animation: heroFade 3s;*/
 }
 
 /* creates the hero image fade-in animation */
