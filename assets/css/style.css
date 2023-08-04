@@ -273,7 +273,6 @@ h3 {
     justify-content: space-around;
     align-items: center;
     text-align: center;
-    margin-top: 2rem;
     max-width: 1500px;
 }
 
@@ -294,11 +293,20 @@ h3 {
     margin-bottom: 1rem;
 }
 
+.cite-div {
+    line-height: 4rem;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
 .review-image {
     border: solid 1px #3a3a3a;
     width: 50px;
     height: 50px;
     border-radius: 50%;
+    margin-left: 15px;
 }
 
 /* contact us form */
