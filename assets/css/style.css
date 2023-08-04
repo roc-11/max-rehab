@@ -21,7 +21,9 @@ body {
 }
 
 .button {
-    background-color: #81927d;
+    background-color: #505c4d;
+    /* too light - accessibility
+    background-color: #81927d*/
     color: white;
     padding: 15px 25px;
     text-decoration: none;
@@ -33,11 +35,11 @@ body {
 }
 
 .button:hover {
-    background-color: #505c4d;
+    background-color: #81927d;
 }
 
 hr {
-    border-top: 2px solid #505c4d;
+    border-top: 2px solid #81927d;
     width: 80%;
     margin: 0 auto;
 }
@@ -199,7 +201,7 @@ h3 {
     margin: 20px;
     padding: 30px;
     color: #f7f9fb;
-    background-color: #687864;
+    background-color: #505c4d;
     line-height: 1.6;
 }
 
@@ -569,7 +571,7 @@ iframe {
 .highlight {
     /* to highlight the opening times on the footer */
     font-weight: bold;
-    color: #e88700;
+    font-size: 120%;
 }
 
 #contact-info ul {
