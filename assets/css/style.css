@@ -585,6 +585,7 @@ iframe {
         margin-left: 30px;
         margin-bottom: 20px;
         line-height: 25px;
+        font-size: 120%;
     }
 
     nav li {
@@ -636,7 +637,7 @@ iframe {
 
 @media screen and (max-width: 800px) {
     #menu {
-        font-size: 90%;
+        font-size: 100%;
     }
 
     #menu li {
@@ -704,11 +705,36 @@ iframe {
     }
 }
 
-/* for the intro col */
-@media screen and (max-width: 670px) {}
-
 /* For Small screen sizes from 580px wide and down */
 @media screen and (max-width: 580px) {
+    nav li {
+        width: 40%;
+    }
+
+    #menu {
+        margin-left: 0;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+
+    /* Change nav li order to put 1.home 2.about 3.services 4.contact */
+    nav ul li:first-child {
+        /* display contact us last */
+        order: 4;
+        padding-top: 20px;
+    }
+
+    nav ul li:nth-child(2) {
+        order: 3;
+        padding-top: 20px;
+    }
+
+    nav ul li:nth-child(3) {
+        order: 2;
+    }
 
     .intro-physio-col {
         flex: 80%;
