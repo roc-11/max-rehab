@@ -102,7 +102,7 @@ h3 {
 .hero-image {
     height: 500px;
     width: 100%;
-    background: url('../images/hero-image.jpg') no-repeat center center;
+    background: url('../images/hero-image.webp') no-repeat center center;
     z-index: -1;
     background-color: rgba(88, 92, 96, 0.7);
     background-blend-mode: multiply;
@@ -190,6 +190,7 @@ h3 {
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
+    text-align: center;
 }
 
 .intro-physio-col {
@@ -439,10 +440,11 @@ h3 {
 
 .therapist-title {
     margin-top: 10px;
-    background-color: #81927d;
+    background-color: #505c4d;
     line-height: 1.2;
     padding: 5px;
     font-size: 0.8rem;
+    color: #f7f9fb;
 }
 
 .therapist-qual {
