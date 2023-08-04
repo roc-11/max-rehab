@@ -293,12 +293,45 @@ h3 {
     margin-bottom: 1rem;
 }
 
+/* double quotation marks for quotes*/
+.quotation {
+    quotes: "“""”";
+}
+
+/* style large, grey quote marks before blockquote text */
+.quotation::before {
+    content: open-quote;
+    font-family: serif;
+    font-size: 3em;
+    display: inline;
+    height: 0;
+    line-height: 0;
+    position: relative;
+    left: -2px;
+    bottom: -12px;
+    color: #ccc;
+}
+
 .cite-div {
     line-height: 4rem;
     display: flex;
     align-items: center;
     text-align: center;
     justify-content: center;
+}
+
+/* style large, grey quote marks after blockquote text */
+.quotation::after {
+    content: close-quote;
+    font-family: serif;
+    font-size: 3em;
+    display: inline;
+    height: 0;
+    line-height: 0;
+    position: relative;
+    left: 4px;
+    bottom: -14px;
+    color: #ccc;
 }
 
 .review-image {
