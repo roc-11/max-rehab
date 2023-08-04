@@ -633,6 +633,22 @@ iframe {
         width: 50%;
         margin: 0 auto;
     }
+
+    .reviews-container {
+        height: auto;
+    }
+
+    .reviews-wrapper {
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .reviews-wrapper .quotes {
+        width: 80%;
+        margin: 0 auto;
+        text-align: center;
+    }
 }
 
 /* for the intro col */
