@@ -443,7 +443,8 @@ h3 {
 
 /* services */
 #services-head,
-#visit-head {
+#visit-head,
+#your-visit {
     margin-bottom: 4rem;
 }
 
@@ -465,6 +466,14 @@ h3 {
 .services-images {
     width: 80%;
     margin-bottom: 4rem;
+}
+
+.therapy-list {
+    padding-left: 3rem;
+}
+
+.heading-space {
+    margin: 1rem 0 1rem 0;
 }
 
 /* footer */
