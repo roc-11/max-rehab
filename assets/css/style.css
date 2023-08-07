@@ -44,6 +44,11 @@ hr {
     margin: 0 auto;
 }
 
+.center-sections {
+    max-width: 1500px;
+    margin: 0 auto;
+}
+
 /* headings and logo */
 h1,
 h2,
