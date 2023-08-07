@@ -22,8 +22,6 @@ body {
 
 .button {
     background-color: #505c4d;
-    /* too light - accessibility
-    background-color: #81927d*/
     color: white;
     padding: 15px 25px;
     text-decoration: none;
@@ -112,8 +110,8 @@ h3 {
     background-color: rgba(88, 92, 96, 0.7);
     background-blend-mode: multiply;
 
-    /* animates hero image 
-    animation: heroFade 3s;*/
+    /* animates hero image */
+    animation: heroFade 3s;
 }
 
 /* creates the hero image fade-in animation */
@@ -526,6 +524,12 @@ h3 {
 
 #youtube-vid {
     margin-top: 4rem;
+}
+
+/* errors */
+.error-msg {
+    color: #f7f9fb;
+    margin-top: 1rem;
 }
 
 /* footer */
