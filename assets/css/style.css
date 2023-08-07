@@ -796,3 +796,10 @@ iframe {
         grid-template-columns: 1fr;
     }
 }
+
+/* For extra small screen sizes from 300px wide and down */
+@media screen and (max-width: 300px) {
+    #contact-info ul {
+        font-size: 90%;
+    }
+}
