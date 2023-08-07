@@ -303,6 +303,7 @@ h3 {
 }
 
 /* double quotation marks for quotes*/
+/* "larger quotes" - CSS tutorial https://youtu.be/pm5sdN8kLyY */
 .quotation {
     quotes: "“""”";
 }
