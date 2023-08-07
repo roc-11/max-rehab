@@ -802,9 +802,17 @@ iframe {
     }
 }
 
-/* For extra small screen sizes from 300px wide and down */
-@media screen and (max-width: 300px) {
+/* For extra small screen sizes from 360px wide and down */
+@media screen and (max-width: 360px) {
     #contact-info ul {
         font-size: 90%;
+    }
+
+    .form-section {
+        height: 900px;
+    }
+
+    .contact-us-form {
+        height: auto;
     }
 }
