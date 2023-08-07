@@ -1,7 +1,7 @@
 # Max Rehab Physiotherapy
 
 ![Max Rehab Physiotherapy Mockup Images](assets/readme-files/max-rehab-mockup.png)
-![View the live project here](https://roc-11.github.io/max-rehab/index.html)
+[View the live project here](https://roc-11.github.io/max-rehab/index.html)
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ The ideal user for this website is:
   
 ### User-Stories
 #### Current User Goals
-1. As a current user, I want to be able to book/contact a physio session easily.
+1. As a current user, I want to be able to book/contact a physiotherapy session easily.
 2. As a current user, I want to easily navigate through the site and access the information I require.
 3. As a current user, I want to easily navigate to content I have previously viewed within a small number of steps.
 
@@ -43,6 +43,12 @@ The ideal user for this website is:
 * When the user hovers over a link, the link is clearly underlined.
 * The navigation makes clear the name of the company and website.
 * The navigation makes the different sections of information easy to find.
-  ![Screenshot of the navigation Images](assets/readme-files/max-rehab-navigation.png)
+  ![Screenshot of the navigation image](assets/readme-files/max-rehab-navigation.png)
 
 ### The Header
+
+* The header displays an eye-catching background image of a physiotherapist working with a patient. 
+* The header catches the users attention with a slogan "Maximise your healing" and a subheader "Start your recovery today". The headers are an off-white colour to contrast with the background image and a clearly visible. 
+* The header includes a green button "BOOK NOW" which takes the user to the contact us page.
+* The header provides the user with clear information about what the site is.
+ ![Screenshot of the header image](assets/readme-files/max-rehab-header.png) 
