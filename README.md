@@ -1,7 +1,7 @@
 # Max Rehab Physiotherapy
 
-![Max Rehab Physiotherapy Mockup Images]()
-![View the live project here]()
+![Max Rehab Physiotherapy Mockup Images](assets/readme-files/max-rehab-mockup.png)
+![View the live project here](https://roc-11.github.io/max-rehab/index.html)
 
 ## Table of Contents
 
