@@ -173,6 +173,8 @@ h3 {
 /* intro section */
 .home-section {
     height: 600px;
+    max-width: 1500px;
+    margin: 0 auto;
 }
 
 .intro-head,
@@ -184,7 +186,6 @@ h3 {
 
 #intro-container {
     width: 100%;
-    max-width: 1500px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
