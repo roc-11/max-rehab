@@ -703,6 +703,10 @@ iframe {
         float: none;
         margin: auto;
     }
+
+    .reviews-container {
+        height: auto;
+    }
 }
 
 /* For medium screen sizes from 800px wide and down */
