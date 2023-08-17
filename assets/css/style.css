@@ -270,6 +270,11 @@ h3 {
     padding: 30px;
 }
 
+.cols-3 img {
+    width: inherit;
+    height: inherit;
+}
+
 /* reviews section */
 
 .reviews-wrapper {
@@ -348,6 +353,11 @@ h3 {
     height: 50px;
     border-radius: 50%;
     margin-left: 15px;
+}
+
+.review-image img {
+    width: inherit;
+    height: inherit;
 }
 
 /* contact us form */
