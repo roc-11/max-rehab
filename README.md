@@ -180,5 +180,29 @@ automation' section.
 
 ## Credits
 
+### Content
+
+* Some of the text and medical information used in the various pages of the website were adapted from various physiotherapy sites, listed below:
+  * [Eoin Long Physiotherapy & Sports Injury Clinic](http://physiotherapyballincollig.ie)
+  * [Fox Physiotherapy](https://foxphysiotherapy.ie)
+  * [Activ8 Physio](http://activ8physio.ie)
+
+### Media
+* The Max Rehab logo was generated on [Looka.com](https://looka.com/onboarding "Link to Looka Home Page"). 
+* Almost all of the images were sourced from various artists on [Pexels](https://www.pexels.com/ "Link to Pexels.com") and [Pixabay](https://pixabay.com/ "Link to Pixabay.com").
+* The embedded video was sourced from [YouTube](https://youtube.com/ "Link to YouTube Home Page")
+
+### Code
+
+The developer consulted multiple sites in order to better understand the code they were trying to implement. For code that was copied and edited, the developer made sure to reference this with the code.The following sites were used on a more regular basis:
+* [Stack Overflow](https://stackoverflow.com/ "Link to Stack Overflow page")
+* [W3Schools](https://www.w3schools.com/ "Link to W3Schools page") 
+
+* The code to create the quotation marks around the reviews was adapted from a YouTube tutorial on the 'Designer Who Codes' channel. The video can be found [here](https://www.youtube.com/watch?v=pm5sdN8kLyY "Link to designer who codes YouTube").
+* The code for the 'about our team' section was inspired and adapted from Code Institute student Kristian D Smith's webiste for ['Wave'](https://kristiandsmith.github.io/wave-project-1-official/ "Link to Wave homepage"). The respository can be found [here](https://github.com/KristianDsmith/wave-project-1-official/tree/main "Link to Wave repo").
+
 ## Acknowledgements
+
+* My mentor Koko for helpful feedback, guidance and encouragement at all stages of the project.
+* Code Institute Slack community for their helpful opinions, advice and feedback. 
   
