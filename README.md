@@ -94,7 +94,7 @@ The site map can be found below:
 
 The appearance of each page of the website was planned by making wireframes. It was essential to provide a positive user experience for the user. 
 
-The wireframes were created using a desktop version of [Balsamiq](https://balsamiq.com/ "Link to Balsamiq homepage"). They can be found below:
+Initially, wireframes plans were hand-drawn on a notepad. More detailed wireframes were then created using a desktop version of [Balsamiq](https://balsamiq.com/ "Link to Balsamiq homepage"). They can be found below:
 
 <details>
 <summary>Balsamiq Wireframes</summary>
@@ -226,6 +226,10 @@ The main hero image (on homepage, about us and our services) is by ['Pololia'](h
 
 * The 500 page is the same as the 404 page, except for a different heading telling the user there was an internal server error.
   ![Screenshot of the 500 page image](assets/readme-files/max-rehab-500.png)
+
+### Features to Implement in the future
+
+If the website were to be deployed in real-life, an online booking system would need to be part of the site's functionality. This was beyond the scope of this project, however, it would greatly add to the user experience of the Max Rehab site.
 
 ## Technologies Used
 
