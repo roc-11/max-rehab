@@ -68,15 +68,13 @@ The ideal user for this website is:
 * The insurance section shows the user which medical insurance companies are covered at Max Rehab.
 * Clients are covered by all major medical health insurers, and there is a note explaining this is not an exhaustive list.
 * The company logo of the main Irish health insurers are displayed beneath the heading and note in a row.
-* On smaller devices, the logos become stacked so that they are clear.
 ![Screenshot of the insurance section image](assets/readme-files/max-rehab-insurance.png) 
 
 ### Reviews
 
 * The reviews section displays what previous clients thought of the Max Rehab services.
 * This section presents a row of 3 visually appealing reviews, with styled quotation marks. The reviewer's name is displayed below the quote in italics beside a photo avatar of the client.
-* The reviews and customer images help establish credibility and trust with potential clients. 
-* On smaller devices, the row of reviews becomes stacked. 
+* The reviews and customer images help establish credibility and trust with potential clients.  
   ![Screenshot of the reviews section image](assets/readme-files/max-rehab-reviews.png) 
 
 ### Footer
@@ -87,5 +85,22 @@ The ideal user for this website is:
 * The socials column provides clickable icons linking to Max Rehab Instagram, Twitter and Facebook social media pages. These encourage the user to follow the company on various social media platforms.
 * The opening hours column clearly displays the times of business operation in larger bold text.
 * The contact us column provides the company phone, email and address. 
-* On smaller devices, the columns stack in the centre of the screen. 
   ![Screenshot of the reviews section image](assets/readme-files/max-rehab-footer.png) 
+
+### About Us Page
+
+* The about us page provides the user with more detail about Max Rehab, the company goals and the staff memebers. 
+* The page will look familar to the user, continuing the navigation menu, header and footer from the homepage. 
+* The user is presented with a short information paragraph, followed by the 'Meet Our Team' section.
+* The 'Meet Our Team' highlights the physiotherapists working at Max Rehab, arranged in a 2 column grid. Each physio's name, title and qualifications are provided as a heading, followed by a short blurb about the therapist. Beisde the text is an image of the physio with an icon which will take the user to the physio's LinkedIn account. 
+* On smaller devices column grids are stack on smaller devices so that each physio's description is displayed first with their picture below.
+  ![Screenshot of the reviews section image](assets/readme-files/max-rehab-meet-our-team.png) 
+
+### Our Services Page
+
+* The 'our services' page provides the user with more detailed information about Max Rehab's services. 
+* The main physiotherapy services/techniques are displayed in graphic form, wih 6 icons.
+* The 'your visit' section is mainly for first time site users. These users are provided with a description of how the physiotherapy services works, from initial visit, to planning treatment, to follow-up appointments. 
+* The section includes an embedded YouTube video with relevant content. The video explains to first time users what to expect from their first sessions. It encourages the user to interact longer with the content and, as a result, become a new customer.
+  ![Screenshot of the reviews section image](assets/readme-files/max-rehab-our-services.png) 
+  
