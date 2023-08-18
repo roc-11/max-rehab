@@ -85,7 +85,7 @@ The ideal user for this website is:
 * The socials column provides clickable icons linking to Max Rehab Instagram, Twitter and Facebook social media pages. These encourage the user to follow the company on various social media platforms.
 * The opening hours column clearly displays the times of business operation in larger bold text.
 * The contact us column provides the company phone, email and address. 
-  ![Screenshot of the reviews section image](assets/readme-files/max-rehab-footer.png) 
+  ![Screenshot of the footer section image](assets/readme-files/max-rehab-footer.png) 
 
 ### About Us Page
 
@@ -94,7 +94,7 @@ The ideal user for this website is:
 * The user is presented with a short information paragraph, followed by the 'Meet Our Team' section.
 * The 'Meet Our Team' highlights the physiotherapists working at Max Rehab, arranged in a 2 column grid. Each physio's name, title and qualifications are provided as a heading, followed by a short blurb about the therapist. Beisde the text is an image of the physio with an icon which will take the user to the physio's LinkedIn account. 
 * On smaller devices column grids are stack on smaller devices so that each physio's description is displayed first with their picture below.
-  ![Screenshot of the reviews section image](assets/readme-files/max-rehab-meet-our-team.png) 
+  ![Screenshot of the About Us Page image](assets/readme-files/max-rehab-meet-our-team.png) 
 
 ### Our Services Page
 
@@ -102,5 +102,13 @@ The ideal user for this website is:
 * The main physiotherapy services/techniques are displayed in graphic form, wih 6 icons.
 * The 'your visit' section is mainly for first time site users. These users are provided with a description of how the physiotherapy services works, from initial visit, to planning treatment, to follow-up appointments. 
 * The section includes an embedded YouTube video with relevant content. The video explains to first time users what to expect from their first sessions. It encourages the user to interact longer with the content and, as a result, become a new customer.
-  ![Screenshot of the reviews section image](assets/readme-files/max-rehab-our-services.png) 
+  ![Screenshot of the Our Services image](assets/readme-files/max-rehab-our-services.png) 
+
+### Contact Us Page
+
+* The contact us page is a key element of the webiste as it allows users to make interaction with the business, make an enquiry and book an appointment to become a client. 
+* The page shows a form in front of a banner image. All form fields are required and validated. The active form input is highlighted with a change of border colour. The form provides users with feedback in case the input is incorrect. 
+* Upon successful completion of the form, the user can click the submit button. The website then provides user feedback by transferring them to the thankyou.html page.
+* The 'thank you' page shows a simple message 'thank you for getting in touch' so that the user knows the form has been successfully submitted. 
+  ![Screenshot of the Contact Us Page image](assets/readme-files/max-rehab-contactus.png) ![Screenshot of the Thank You Page image](assets/readme-files/max-rehab-thankyou.png)
   
