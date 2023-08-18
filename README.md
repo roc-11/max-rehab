@@ -111,4 +111,74 @@ The ideal user for this website is:
 * Upon successful completion of the form, the user can click the submit button. The website then provides user feedback by transferring them to the thankyou.html page.
 * The 'thank you' page shows a simple message 'thank you for getting in touch' so that the user knows the form has been successfully submitted. 
   ![Screenshot of the Contact Us Page image](assets/readme-files/max-rehab-contactus.png) ![Screenshot of the Thank You Page image](assets/readme-files/max-rehab-thankyou.png)
+
+### 404 - Page Not Found
+
+* The 404 page is a single page in the case of the user entering the incorrect address into the address bar. 
+* The page informs the user that the page was not fount and encourages them to click the button, taking them directly back to the website home page. 
+  ![Screenshot of the 404 page image](assets/readme-files/max-rehab-404.png)
+
+### 500 Page
+
+* The 500 page is the same as the 404 page, except for a different heading telling the user there was an internal server error.
+  ![Screenshot of the 500 page image](assets/readme-files/max-rehab-500.png)
+
+## Technologies Used
+
+### Main Languages Used
+
+* HTML5
+* CSS3
+
+### Frameworks, Libraries & Programs Used
+
+* Google Fonts
+  * Google fonts was used to import the fonts "Chivo", "Krub", and "Lato" into the style.css file. These fonts were used throughout the project.
+* Font Awesome
+  * Font Awesome was used on almost all pages throughout the website to import icons (e.g. social media icons) for UX purposes.
+* CodeAnywhere 
+  * CodeAnywhere was used for writing code, commiting, and then pushing to GitHub. 
+  * IDE used to code the project.
+* GitHub
+  * GitHub was used to store the project after pushing
+* Adobe Photoshop
+  * Adobe Photoshop was used to resize images
+* Balsamiq
+  * Balsamiq was used to create the wireframes during the design phase of the project.
+* Am I Responsive?
+  * 'Am I Responsive' was used to visualise responsive design throughout the process and to generate mockup imagery.
+* Google Maps
+  * Google Maps was used to embed a map with Max Rehab's clinic location.
+* YouTube
+  * YouTube was used to embed a video on the website.
+* Looka
+  * Looka was used to generate a logo for the website.
+* TinyPNG
+  * TinyPNG was used for image compression and to improve wesbite load speed.
+* CloudConvert
+  * Cloud Convert was used to convert images to webp files (to reduce file size and increase load speed).
+
+## Testing
+
+## Deployment
+
+This project was developed using [CodeAnywhere](https://codeanywhere.com/ "Link to CodeAnywhere site"), which was then committed and pushed to GitHub using the GitPod terminal.
+
+### Deploying on GitHub Pages
+
+In oder to deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:
+
+1. Log in to [GitHub](https://github.com/login "Link to GitHub login page") or [create an account](https://github.com/join "Link to GitHub create account page").
+2. Locate the [GitHub Repository: Max Rehab](https://github.com/roc-11/max-rehab "Link to GitHub Repo").
+3. At the top of the repository, locate 'Settings' from the menu items.
+4. Scroll down the settings page until you reach 'Pages' in 'Code and
+automation' section.
+5. Under 'Source' click the drop-down menu labelled 'Select Branch' and select 'Main'. Click the dropdown called 'Select folder' and select '/root'.
+6. Upon selection, the page will automatically refresh meaning that the website is now deployed.
+7. Scroll back down to the 'Pages' section to retrieve the deployed [link](https://roc-11.github.io/max-rehab/)
+
+
+## Credits
+
+## Acknowledgements
   
