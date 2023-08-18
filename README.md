@@ -9,7 +9,7 @@
 
 ## Introduction
 
-This comprehensive website was made for the fictional company Max Rehab Physiotherapy in Cork, Ireland. The site will be targeted toward customers who require physiotherapy treatment as a reult of an injury or operation, and returning customers who wish to book maintenance physiotherapy sessions.
+This comprehensive website was made for the fictional company Max Rehab Physiotherapy in Cork, Ireland. The site will be targeted toward customers who require physiotherapy treatment as a reult of an injury or operation, and returning customers who wish to book maintenance physiotherapy sessions. It is responsive across a range of devices and it is easy for site users to navigate.
 
 ## UX
 
@@ -52,3 +52,21 @@ The ideal user for this website is:
 * The header includes a green button "BOOK NOW" which takes the user to the contact us page.
 * The header provides the user with clear information about what the site is.
  ![Screenshot of the header image](assets/readme-files/max-rehab-header.png) 
+
+### About
+
+* This section is a descriptive part of the wesbite which provides users with information as to how Max Rehab can help them. 
+* It is clearly divided into a row of 4 information boxes, showing the main services Max Rehab provides to clients - 'Online Physio', 'Post-op Rehab', 'Physiotherapy' and 'Pain Management'.
+* There is a short text desription of the 4 main services.
+* The information boxes are a dark green in keeping with the theme of the website, and text is a contrasting white colour. 
+* On smaller devices, the row of boxes becomes stacked to maximise available screenspace.
+* The about section includes a green button "VIEW ALL SERVICES" which takes the user to the services page, which more indepth information on the services provided. 
+  ![Screenshot of the about section image](assets/readme-files/max-rehab-about.png) 
+
+### Insurance
+
+* The insurance section shows the user which medical insurance companies are covered at Max Rehab.
+* Clients are covered by all major medical health insurers, and there is a note explaining this is not an exhaustive list.
+* The company logo of the main Irish health insurers are displayed beneath the heading and note in a row.
+* On smaller devices, the logos become stacked so that they are clear.
+![Screenshot of the insurance section image](assets/readme-files/max-rehab-insurance.png) 
