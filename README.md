@@ -9,7 +9,21 @@
 
 ## Introduction
 
-This comprehensive website was made for the fictional company Max Rehab Physiotherapy in Cork, Ireland. The site will be targeted toward customers who require physiotherapy treatment as a reult of an injury or operation, and returning customers who wish to book maintenance physiotherapy sessions. It is responsive across a range of devices and it is easy for site users to navigate.
+This comprehensive website was made for the fictional company Max Rehab Physiotherapy in Cork, Ireland. The site will be targeted toward customers who require physiotherapy treatment as a reult of an injury or surgery, and returning customers who wish to book maintenance physiotherapy sessions. It is responsive across a range of devices and it is easy for site users to navigate.
+
+This website was made for the first of five Milestone projects required to complete the Diploma in Full Stack Software Development (e-Commerce Applications) program at [Code Institute](https://codeinstitute.net/ie/ "Link to Code Institute homepage").
+
+The main requirements of this project are to build a responsive and static front-end site to present useful information to users using all the technologies learned so far (HTML5 and CSS3).
+
+## Aim
+
+The aim of this website to provide users with information about Max Rehab Physiotherapy with the view of the user eventually making a physio booking and becoming a user of the services.
+
+### Business Goals
+
+* To provide users with infomation about Max Rehab Physiotherapy, the services the busniess offers, and meet the business team.
+* To provide users with essential contact information, in order to attract enquires and bookings from new and existing customers.
+* To increase Max Rehab engagement with customers - linking clients to the business' various social media platforms.
 
 ## UX
 
@@ -22,15 +36,77 @@ The ideal user for this website is:
   
 ### User-Stories
 #### Current User Goals
-1. As a current user, I want to be able to book/contact a physiotherapy session easily.
+1. As a current user, I want to be able to contact/book a physiotherapy session easily.
 2. As a current user, I want to easily navigate through the site and access the information I require.
 3. As a current user, I want to easily navigate to content I have previously viewed within a small number of steps.
 
 #### New User Goals
 1. As a new user, I want to easily navigate the entire site intuitively. 
-2. As a new user, I want the information I seek to be easily accessible and relevant.
-3. As a new user, I want attractive and relevant visuals and colour schemes that work with the content.
-4. As a new user, I want to be able to book/contact a physio session easily.
+2. As a new user, I want to easily understand the main purpose of the site.
+3. As a new user, I want the information I seek to be easily accessible and relevant.
+4. As a new user, I want attractive and relevant visuals and colour schemes that work with the content.
+5. As a new user, I want to be able to contact/book a physiotherapy session easily.
+
+### Development-Planes
+
+To create a comprehensive website that fulfills the above user stories and identifies the functionality of the site.
+
+#### Strategy
+
+Strategy incorporates user needs as well as service objectives. This website will focus on the following target audience:
+* Roles: 
+  * Current Users
+  * New Users
+* Demographic:
+  * All ages
+  * Residing in Ireland (mainly Cork)
+  * New to physiotherapy/requiring physiotherapy treatment
+
+The website needs to enable the user to:
+* Find the desired information
+  * what services the company offers
+  * learn about the Max Rehab physiotherapists
+  * what to expect at your first visit
+  * how to contact the company (aquire more information or make a booking)
+  * where to locate the physiotherapy clinic
+  * connect on social media
+
+#### Scope
+
+The scope plane is about determining the requirements based on the goals established on the strategy plane.
+* Content Requirements - the user will need to find the information defined above.
+* Functionality Requirements - the user will need to be able to easily navigate the site to find the information they require and be able to contact the company for futher information/to make a booking.
+
+#### Structure
+
+The information was organised into a heirarchical tree structure (a site map) making clear how users would navigate the website with ease.
+
+The site map can be found below:
+
+<details>
+<summary>Strategy Plane</summary>
+
+![Strategy Table](assets/readme-files/sitemap.png)
+
+</details>
+
+#### Skeleton
+
+The appearance of each page of the website was planned by making wireframes. It was essential to provide a positive user experience for the user. 
+
+The wireframes were created using a desktop version of [Balsamiq](https://balsamiq.com/ "Link to Balsamiq homepage"). They can be found below:
+
+<details>
+<summary>Balsamiq Wireframes</summary>
+
+![Site Wireframes](assets/readme-files/wireframe-all-pages.png)
+
+</details>
+
+### Design
+#### Colour Scheme
+
+The colourscheme was inspired by 
 
 ## Features
 
@@ -110,7 +186,7 @@ The ideal user for this website is:
 * The page shows a form in front of a banner image. All form fields are required and validated. The active form input is highlighted with a change of border colour. The form provides users with feedback in case the input is incorrect. 
 * Upon successful completion of the form, the user can click the submit button. The website then provides user feedback by transferring them to the thankyou.html page.
 * The 'thank you' page shows a simple message 'thank you for getting in touch' so that the user knows the form has been successfully submitted. 
-  ![Screenshot of the Contact Us Page image](assets/readme-files/max-rehab-contactus.png) ![Screenshot of the Thank You Page image](assets/readme-files/max-rehab-thankyou.png)
+  ![Screenshot of the Contact Us & Thank You Pages image](assets/readme-files/max-rehab-contactus.png)
 
 ### 404 - Page Not Found
 
