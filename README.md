@@ -106,7 +106,35 @@ The wireframes were created using a desktop version of [Balsamiq](https://balsam
 ### Design
 #### Colour Scheme
 
-The colourscheme was inspired by 
+The colourscheme was inspired by the theme 'Close to Nature' on [Visme.com](https://visme.co/blog/website-color-schemes/). The mix of earthy greens and blues was both visually appealing and intended to create a sense of stability, reliability and calmness for the user. 
+
+As the wesbite development progressed, it was decided that the earthy greens would be the main colour, and instead combined with simple black and white. The website is for the medical field and the colour palette needed to be simple. 
+
+All text is coloured either charcoal (#3a3a3a) or soft-white (#f7f9fb), depending on which background colour it needs to contrast with (essential for accessibility). A contrasting orange shade is used when hovered over text inputs on the contact form.
+
+Details of the full colour palette can be found below:
+
+<details>
+<summary>Colour Palette</summary>
+
+![Colour Palette](assets/readme-files/colour-palette.png)
+
+</details>
+
+#### Typography
+
+The pairing chosen for the site are: 
+* [Chivo](https://fonts.google.com/specimen/Chivo?preview.text=Max%20Rehab%20Physiotherapy&preview.text_type=custom)
+* [Krub](https://fonts.google.com/specimen/Krub)
+* A backup of 'Lato' and sans-serif are applied in case of failure.
+
+Chivo is used for title headings, while Krub is used for almost all other text. Both were imported from[Google Fonts](https://fonts.google.com/).
+
+#### Imagery
+
+The imagery used on the site was sourced from various sites, mainly Pexels, Pixabay and Adobe Stock.
+
+The main hero image (on homepage, about us and our services) is by ['Pololia'](https://stock.adobe.com/images/id/244750183?clickref=1011lwXM47CC&mv=affiliate&mv2=pz&as_camptype=&as_channel=affiliate&as_source=partnerize&as_campaign=wbm&asset_id=244750183) on Adobe Stock. The contact form background image is by artist [RDNE Stock project](https://www.pexels.com/photo/a-woman-getting-cupping-therapy-8313254/) on Pexels.
 
 ## Features
 
@@ -265,7 +293,7 @@ automation' section.
 
 ### Media
 * The Max Rehab logo was generated on [Looka.com](https://looka.com/onboarding "Link to Looka Home Page"). 
-* Almost all of the images were sourced from various artists on [Pexels](https://www.pexels.com/ "Link to Pexels.com") and [Pixabay](https://pixabay.com/ "Link to Pixabay.com").
+* Almost all of the images were sourced from various artists on [Pexels](https://www.pexels.com/ "Link to Pexels.com"), [Pixabay](https://pixabay.com/ "Link to Pixabay.com") and [Adobe Stock](https://stock.adobe.com "Link to Adobe Stock").
 * The embedded video was sourced from [YouTube](https://youtube.com/ "Link to YouTube Home Page")
 
 ### Code
