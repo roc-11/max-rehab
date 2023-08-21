@@ -359,7 +359,7 @@ The Cascading Stylesheet code was tested using the [W3C CSS Validator](https://j
 ### Performance
 
 [Lighthouse](https://www.webpagetest.org/lighthouse) Google Webdev tools were used to test the performance of the website.
-![Screenshot of Lighthouse Peformance Testing](assets/) ADD IMAGE NB
+![Screenshot of Lighthouse Peformance Testing](assets/readme-files/max-rehab-performance-testing.png)
 
 ### Accessibility
 
