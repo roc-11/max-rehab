@@ -109,20 +109,6 @@ h3 {
     z-index: -1;
     background-color: rgba(88, 92, 96, 0.7);
     background-blend-mode: multiply;
-
-    /* animates hero image */
-    animation: heroFade 3s;
-}
-
-/* creates the hero image fade-in animation */
-@keyframes heroFade {
-    0% {
-        opacity: 0;
-    }
-
-    100% {
-        opacity: 1;
-    }
 }
 
 #main-heading {
