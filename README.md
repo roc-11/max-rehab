@@ -279,6 +279,33 @@ If the website were to be deployed in real-life, an online booking system would 
 
 ## Testing
 
+The website has been tested on a range of browers: Google Chrome, Safari & Microsoft Edge.
+
+The entired project was manually tested by the developer to ensure all it appears correctly on a range of devices/screen size, and to ensure that all links work as expected. 
+
+The project was also user tested by a some class colleagues on the [Slack](https://slack.com/intl/en-ie/) Code Institute community, and some of my family members. Their helpful advice and suggestions led to a few small UX changes in order to create a better experience.
+
+### Validator Testing
+
+#### HTML Validation
+
+All pages of the website were tested using the [W3C official HTML validation tool](https://validator.w3.org/).  No errors were shown when the site was passed through this tool. 
+![Screenshot of W3C HTML Validation](assets/readme-files/html-validation.png)
+
+#### CSS Validation
+
+The Cascading Stylesheet code was tested using the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/). No errors were found when the CSS was passed through this tool.
+![Screenshot of W3C CSS Validation](assets/readme-files/css-validation.png)
+
+### Performance
+
+[Lighthouse](https://www.webpagetest.org/lighthouse) Google Webdev tools were used to test the performance of the website.
+![Screenshot of Lighthouse Peformance Testing](assets/) ADD IMAGE NB
+
+### Accessibility
+
+
+
 ## Deployment
 
 This project was developed using [CodeAnywhere](https://codeanywhere.com/ "Link to CodeAnywhere site"), which was then committed and pushed to GitHub using the GitPod terminal.
