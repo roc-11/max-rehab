@@ -1,5 +1,7 @@
 # Max Rehab Physiotherapy
 
+## Developer: Róisín O'Connell 
+
 ![Max Rehab Physiotherapy Mockup Images](assets/readme-files/max-rehab-mockup.png)
 [View the live project here](https://roc-11.github.io/max-rehab/index.html)
 
@@ -240,30 +242,30 @@ If the website were to be deployed in real-life, an online booking system would 
 
 ### Frameworks, Libraries & Programs Used
 
-* Google Fonts
+* [Google Fonts](https://fonts.google.com/)
   * Google fonts was used to import the fonts "Chivo", "Krub", and "Lato" into the style.css file. These fonts were used throughout the project.
 * Font Awesome
-  * Font Awesome was used on almost all pages throughout the website to import icons (e.g. social media icons) for UX purposes.
+  * [Font Awesome](https://fontawesome.com/) was used on almost all pages throughout the website to import icons (e.g. social media icons) for UX purposes.
 * CodeAnywhere 
-  * CodeAnywhere was used for writing code, commiting, and then pushing to GitHub. 
+  * [CodeAnywhere](https://codeanywhere.com/signin) was used for writing code, commiting, and then pushing to GitHub.
   * IDE used to code the project.
-* GitHub
+* [GitHub](https://github.com/)
   * GitHub was used to store the project after pushing
-* Adobe Photoshop
+* [Adobe Photoshop](https://www.adobe.com/ie/ "link to the adobe homepage")
   * Adobe Photoshop was used to resize images
-* Balsamiq
+* [Balsamiq](https://balsamiq.com/)
   * Balsamiq was used to create the wireframes during the design phase of the project.
-* Am I Responsive?
+* [Am I Responsive?](https://ui.dev/amiresponsive)
   * 'Am I Responsive' was used to visualise responsive design throughout the process and to generate mockup imagery.
-* Google Maps
+* [Google Maps](https://www.google.com/maps)
   * Google Maps was used to embed a map with Max Rehab's clinic location.
-* YouTube
+* [YouTube](https://www.youtube.com/)
   * YouTube was used to embed a video on the website.
-* Looka
+* [Looka](https://looka.com/)
   * Looka was used to generate a logo for the website.
-* TinyPNG
+* [TinyPNG](https://tinypng.com/)
   * TinyPNG was used for image compression and to improve wesbite load speed.
-* CloudConvert
+* [CloudConvert](https://cloudconvert.com/webp-converter)
   * Cloud Convert was used to convert images to webp files (to reduce file size and increase load speed).
 
 ## Testing
@@ -299,6 +301,7 @@ automation' section.
 * The Max Rehab logo was generated on [Looka.com](https://looka.com/onboarding "Link to Looka Home Page"). 
 * Almost all of the images were sourced from various artists on [Pexels](https://www.pexels.com/ "Link to Pexels.com"), [Pixabay](https://pixabay.com/ "Link to Pixabay.com") and [Adobe Stock](https://stock.adobe.com "Link to Adobe Stock").
 * The embedded video was sourced from [YouTube](https://youtube.com/ "Link to YouTube Home Page")
+* The icons across the site were sourced from [Font Awesome](https://fontawesome.com/ "Link to Font Awesome homepage")
 
 ### Code
 
@@ -308,6 +311,7 @@ The developer consulted multiple sites in order to better understand the code th
 
 * The code to create the quotation marks around the reviews was adapted from a YouTube tutorial on the 'Designer Who Codes' channel. The video can be found [here](https://www.youtube.com/watch?v=pm5sdN8kLyY "Link to designer who codes YouTube").
 * The code for the 'about our team' section was inspired and adapted from Code Institute student Kristian D Smith's webiste for ['Wave'](https://kristiandsmith.github.io/wave-project-1-official/ "Link to Wave homepage"). The respository can be found [here](https://github.com/KristianDsmith/wave-project-1-official/tree/main "Link to Wave repo").
+* The code for the contact form was adapted from the [Code Institute](https://codeinstitute.net/ie/ "Link to Code Institute homepage") Love Running Project.
 
 ## Acknowledgements
 
