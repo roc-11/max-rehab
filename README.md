@@ -27,6 +27,15 @@ The aim of this website to provide users with information about Max Rehab Physio
 * To provide users with essential contact information, in order to attract enquires and bookings from new and existing customers.
 * To increase Max Rehab engagement with customers - linking clients to the business' various social media platforms.
 
+### User Goals
+* Navigate easily through the website
+* Learn more about Max Rehab Physiotherapy
+* Check business location and opening hours
+* Contact Max Rehab and learn how to book an appointment
+* Find out information about the staff of Max Rehab
+* Learn about the services Max Rehab offers
+* Find out what to expect from a first visit to Max Rehab
+
 ## UX
 
 ### Ideal User Demographic
@@ -134,9 +143,9 @@ Chivo is used for title headings, while Krub is used for almost all other text. 
 
 #### Imagery
 
-The imagery used on the site was sourced from various sites, mainly Pexels, Pixabay and Adobe Stock.
+The imagery used on the site was sourced from various sites, mainly Pexels, Pixabay and Adobe Stock. All images have been compressed in order to speed up loading and processing times, particularly on mobile devices. The images chosen are in line with the theme of the site.
 
-The main hero image (on homepage, about us and our services) is by ['Pololia'](https://stock.adobe.com/images/id/244750183?clickref=1011lwXM47CC&mv=affiliate&mv2=pz&as_camptype=&as_channel=affiliate&as_source=partnerize&as_campaign=wbm&asset_id=244750183) on Adobe Stock. The contact form background image is by artist [RDNE Stock project](https://www.pexels.com/photo/a-woman-getting-cupping-therapy-8313254/) on Pexels.
+The main hero image (on homepage, about us and our services) is by ['Pololia'](https://stock.adobe.com/images/id/244750183?clickref=1011lwXM47CC&mv=affiliate&mv2=pz&as_camptype=&as_channel=affiliate&as_source=partnerize&as_campaign=wbm&asset_id=244750183) on Adobe Stock. The contact form background image is by artist [RDNE Stock project](https://www.pexels.com/photo/a-woman-getting-cupping-therapy-8313254/) on Pexels. 
 
 ## Features
 
