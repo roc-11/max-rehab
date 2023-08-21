@@ -279,7 +279,10 @@ If the website were to be deployed in real-life, an online booking system would 
 
 ## Testing
 
-The website has been tested on a range of browers: Google Chrome, Safari & Microsoft Edge.
+### Browser Compatibility
+The website has been tested on a range of browers: Google Chrome, Safari & Microsoft Edge. The results were satisfactory.
+
+### Manual Testing
 
 The entired project was manually tested by the developer to ensure all it appears correctly on a range of devices/screen size, and to ensure that all links work as expected. 
 
@@ -289,7 +292,10 @@ The project was also user tested by a some class colleagues on the [Slack](https
 
 #### HTML Validation
 
-All pages of the website were tested using the [W3C official HTML validation tool](https://validator.w3.org/).  No errors were shown when the site was passed through this tool. 
+All pages of the website were tested using the [W3C official HTML validation tool](https://validator.w3.org/). No errors were shown when the site was passed through this tool. 
+
+A previous pass through this tool showed multiple errors related to 'trailing slash on void elements'. An autoformat option has to be changed on the CodeAnywhere IDE in order to rectify these.
+
 ![Screenshot of W3C HTML Validation](assets/readme-files/html-validation.png)
 
 #### CSS Validation
@@ -304,7 +310,31 @@ The Cascading Stylesheet code was tested using the [W3C CSS Validator](https://j
 
 ### Accessibility
 
+[Wave](https://wave.webaim.org/) Web Accessibility Evaluation tool was used to check accessibility. It detected a minor alert where table is used for the opening times in the footer. The contrast check passed, as did all other accessibility checks. 
 
+Semantic markup was used when developing the site to ensure the site is readable for the visually impaired/those using screen readers and other forms of assistive technology. Alt text descriptions are included for all images and aria-labels for all links.
+
+![Screenshot of Wave Accessibility Testing](assets/readme-files/wave-accessibility-testing.png) 
+
+### Responsiveness
+
+Google Webdev tools were used throughout the project in order to ensure the site was responsive and user-friendly across a range of device and screen sizes.
+
+The breakpoints used within the site are 1183px, 950px, 800px, 580px and 360px. 
+
+In general, much of the site content is displayed in rows. For smaller devices, most of these rows are stacked for display on smaller device screens. The screen space is optimised for the user by doing this.
+
+There were responsivity issues regarding the display of all pages on large device screens (over 1183px). It took some time to ensure that all information and images were centred on these large device screens, and to ensure the homepage information boxes had a max-width clause. In addition, on smaller screens there were problems with the height of each section. Becauce of clashing flexbox styles, some sections were overlapping and overflowing on small device screens. A style of height auto fixed this issue.
+
+The website is full responsive and all functions are displayed correctly.
+
+### Bugs/Known Issues
+
+During initial testing, there were a few bugs discovered. After testing for various screen sized, there was a lot of work to do in oder to make the website responsive. The necessary changes were made an the website is now fully responsive. 
+
+The reviews section was intended to be a slider effect. The homepage initially has a CSS slider of review images, coded using this [YouTube tutrial](https://www.youtube.com/watch?v=McPdzhLRzCg). The slider was not smooth and caused issues with the site scrollbar. Upon the advice of my mentor, I removed this an replaced it with a row of more visually appealing blockquotes. A JavaScript slider would have been more effective but this is beyond the scope of this project.
+
+There are currently no known bugs/issues with the website.
 
 ## Deployment
 
