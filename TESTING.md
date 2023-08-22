@@ -82,6 +82,8 @@ The project was also user tested by a some class colleagues on the [Slack](https
    - The user can click on the "Contact Us" link in the main navigation bar to take them to the contact us/booking form.
    - The user can find contact details in the form of an email address & phone number in the main footer. Both of these are clickable and perform actions.
 
+[Back to top ⇧](#max-rehab-physiotherapy---testing)
+
 ## Manual Testing
 
 ### Common Elements Testing
@@ -171,6 +173,8 @@ Manual testing was conducted on the following elements of the [Contact Us Page](
   
 - The responsiveness of the error pages.
 
+[Back to top ⇧](#max-rehab-physiotherapy---testing)
+
 ## Validator Testing
 
 ### HTML Validation
@@ -189,10 +193,14 @@ A previous pass through this tool showed multiple errors related to 'trailing sl
 The Cascading Stylesheet code was tested using the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/). No errors were found when the CSS was passed through this tool.
 ![Screenshot of W3C CSS Validation](assets/readme-files/css-validation.png)
 
+[Back to top ⇧](#max-rehab-physiotherapy---testing)
+
 ## Performance
 
 [Lighthouse](https://www.webpagetest.org/lighthouse) Google Webdev tools were used to test the performance of the website.
 ![Screenshot of Lighthouse Peformance Testing](assets/readme-files/max-rehab-performance-testing.png)
+
+[Back to top ⇧](#max-rehab-physiotherapy---testing)
 
 ## Accessibility
 
@@ -201,3 +209,5 @@ The Cascading Stylesheet code was tested using the [W3C CSS Validator](https://j
 Semantic markup was used when developing the site to ensure the site is readable for the visually impaired/those using screen readers and other forms of assistive technology. Alt text descriptions are included for all images and aria-labels for all links.
 
 ![Screenshot of Wave Accessibility Testing](assets/readme-files/wave-accessibility-testing.png)
+
+[Back to top ⇧](#max-rehab-physiotherapy---testing)
