@@ -343,7 +343,7 @@ The website is full responsive and all functions are displayed correctly.
 
 During initial testing, there were a few bugs discovered. After testing for various screen sized, there was a lot of work to do in oder to make the website responsive. The necessary changes were made an the website is now fully responsive. 
 
-The reviews section was intended to be a slider effect. The homepage initially has a CSS slider of review images, coded using this [YouTube tutrial](https://www.youtube.com/watch?v=McPdzhLRzCg). The slider was not smooth and caused issues with the site scrollbar. Upon the advice of my mentor, I removed this an replaced it with a row of more visually appealing blockquotes. A JavaScript slider would have been more effective but this is beyond the scope of this project.
+The reviews section was intended to be a slider effect. The homepage initially has a CSS slider of review images, coded using this [YouTube tutorial](https://www.youtube.com/watch?v=McPdzhLRzCg). The slider was not smooth and caused issues with the site scrollbar. Upon the advice of my mentor, I removed this an replaced it with a row of more visually appealing blockquotes. A JavaScript slider would have been more effective but this is beyond the scope of this project.
 
 There are currently no known bugs/issues with the website.
 
