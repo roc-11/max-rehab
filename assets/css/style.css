@@ -831,6 +831,12 @@ iframe {
     #about-main {
         padding: 0 2rem;
     }
+
+    /* remove margin left and right from contact form for small screens */
+    .contact-us-form {
+        margin: 210px 0 0 0;
+        left: 0;
+    } 
 }
 
 /* For extra small screen sizes from 360px wide and down */
