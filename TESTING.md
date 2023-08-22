@@ -21,9 +21,7 @@
     - [About Us Page](#about-us-page)
     - [Our Services Page](#our-services-page)
     - [Contact Us Page](#contact-us-page)
-    - [Error Pages](#error-pages)
-      - [404 Page](#404-page)
-      - [500 Page](#500-page)
+    - [Error Pages - 404 and 500 Error Pages](#error-pages---404-and-500-error-pages)
   - [Validator Testing](#validator-testing)
     - [HTML Validation](#html-validation)
     - [CSS Validation](#css-validation)
@@ -93,6 +91,10 @@ Manual testing was conducted on the following elements that appear on every page
 
      ![Navigation Bar page links](assets/readme-files/manual-testing-navigation-bar.gif)
 
+- Clicking and dragging on the map will move the area shown on the map. Clicking the plus and minus buttons changes the zoom of the map.
+
+     ![iFrame Google Maps Functionality](assets/readme-files/manual-testing-map.gif)
+    
 - Clicking on the Social Media links will open a new tab
 
      Facebook:
@@ -106,6 +108,14 @@ Manual testing was conducted on the following elements that appear on every page
      Instagram:
 
 ![Instagram Social Media link](assets/readme-files/manual-testing-socials-instagram.gif)
+
+- Clicking on the telephone number in the footer will allow the user to directly call the company on mobile devices, and give the user the option to open Skype or other such applications (if they are installed)
+
+![Telephone link Functionality](assets/readme-files/manual-testing-telephone.gif)
+
+- Clicking on the email address in the footer will open the default email application on the user's device
+  
+![Email link Functionality](assets/readme-files/manual-testing-email.gif)
 
 ### Home Page
 Manual testing was conducted on the following elements of the [Home Page](index.html):
@@ -124,15 +134,44 @@ Manual testing was conducted on the following elements of the [Home Page](index.
 
 ### About Us Page
 
+Manual testing was conducted on the following elements of the [About Us Page](about.html):
+
+- The responsiveness of the About Us page
+
+![Responsiveness - About Us Page](assets/readme-files/manual-testing-aboutus-responsive.gif)
+
 ### Our Services Page
 
+Manual testing was conducted on the following elements of the [Our Services Page](services.html):
+
+- Clicking on the YouTube video controls will allow the user to play and pause the video, among other controls.
+  
+![YouTube Video - Our Services Page](assets/readme-files/manual-testing-services-youtube.gif)
+
+- The responsiveness of the Our Services page
+
+![Responsiveness - Our Services Page](assets/readme-files/manual-testing-services-responsive.gif)
+
 ### Contact Us Page
+Manual testing was conducted on the following elements of the [Contact Us Page](contact.html):
 
-### Error Pages
+- When filling out the contact form, the user must complete all fields before submitting. Hovering over the submit button will trigger `hover` effect, highlighting the button for the user.
 
-#### 404 Page
+![Form required fields - Contact Us Page](assets/readme-files/manual-testing-contactus-form.gif)
 
-#### 500 Page
+- The responsiveness of the Contact Us page
+
+![Responsiveness - Contact Us Page](assets/readme-files/manual-testing-contact-responsive.gif)
+
+### Error Pages - 404 and 500 Error Pages
+
+- The 404 and 500 error pages have a home button. Clicking on the "home" button will bring the user to the home page [index.html](index.html).
+  
+![Home Button - Error Pages](assets/readme-files/manual-testing-errorpages-home-button.gif)
+  
+- The responsiveness of the error pages.
+
+![Responsiveness - All Error Pages](assets/readme-files/manual-testing-errorpages-responsive.gif)
 
 ## Validator Testing
 

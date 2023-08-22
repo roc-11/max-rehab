@@ -322,6 +322,8 @@ If the website were to be deployed in real-life, an online booking system would 
   * TinyPNG was used for image compression and to improve wesbite load speed.
 * [CloudConvert](https://cloudconvert.com/webp-converter)
   * Cloud Convert was used to convert images to webp files (to reduce file size and increase load speed).
+* [EZgif](https://ezgif.com)
+  * EZgif was used to convert screen recording videos to .gif files for the TESTING.md file 
 
 ## Testing
 
