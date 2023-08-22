@@ -16,6 +16,14 @@
     - [Current User](#current-user)
     - [New User](#new-user)
   - [Manual Testing](#manual-testing)
+    - [Common Elements Testing](#common-elements-testing)
+    - [Home Page](#home-page)
+    - [About Us Page](#about-us-page)
+    - [Our Services Page](#our-services-page)
+    - [Contact Us Page](#contact-us-page)
+    - [Error Pages](#error-pages)
+      - [404 Page](#404-page)
+      - [500 Page](#500-page)
   - [Validator Testing](#validator-testing)
     - [HTML Validation](#html-validation)
     - [CSS Validation](#css-validation)
@@ -72,9 +80,59 @@ The project was also user tested by a some class colleagues on the [Slack](https
    - An attractive, professional logo image was created using [Looka.com](https://looka.com/onboarding "Link to Looka Home Page").
 
 5. As a new user, I want to be able to contact/book a physiotherapy session easily.
-- 
+   - The Home Page has a "Book Now" button under the main hero image. Users can simply click this to take them to the contact us form and make a booking. If the site were real, an integrated booking system would also exist.
+   - The user can click on the "Contact Us" link in the main navigation bar to take them to the contact us/booking form.
+   - The user can find contact details in the form of an email address & phone number in the main footer. Both of these are clickable and perform actions.
 
 ## Manual Testing
+
+### Common Elements Testing
+Manual testing was conducted on the following elements that appear on every page:
+
+- Clicking on the Navigation Bar's links will bring the user to the specified page.
+
+     ![Navigation Bar page links](assets/readme-files/)
+
+- Clicking on the Social Media links will open a new tab
+
+     Facebook:
+
+![Facebook Social Media link](assets/readme-files/)
+
+     Twitter:
+
+![Twitter Social Media link](assets/readme-files/)
+
+     Instagram:
+
+![Instagram Social Media link](assets/readme-files/)
+
+### Home Page
+Manual testing was conducted on the following elements of the [Home Page](index.html):
+
+- Clicking the "book now" button will bring you to the Contact Us page. 
+
+![Competition Banner - Home Page](assets/)
+
+- Clicking the "view all services" button will bring you to the Our Services page. 
+
+!["See More" Link - Home Page](assets/)
+
+- The responsiveness of the Home page
+
+![Responsiveness - Home Page](assets/)
+
+### About Us Page
+
+### Our Services Page
+
+### Contact Us Page
+
+### Error Pages
+
+#### 404 Page
+
+#### 500 Page
 
 ## Validator Testing
 
