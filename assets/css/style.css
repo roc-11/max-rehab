@@ -828,9 +828,10 @@ iframe {
     }
 
     #about-physios .container,
-    #about-main {
+    #about-main, #your-visit-wrapper {
         padding: 0 2rem;
     }
+
 
     /* remove margin left and right from contact form for small screens */
     .contact-us-form {
