@@ -29,6 +29,8 @@ The website has been tested on a range of browers: Google Chrome, Safari & Micro
 
 The entired project was manually tested by the developer to ensure all it appears correctly on a range of devices/screen size, and to ensure that all links work as expected.
 
+The project was manually tested and reviewed by my mentor Koko during three separate mentor sessions. Her expert opinion was greatly appreciated and small changes were made to the site after each session.
+
 The project was also user tested by a some class colleagues on the [Slack](https://slack.com/intl/en-ie/) Code Institute community, and some of my family members. Their helpful advice and suggestions led to a few small UX changes in order to create a better experience.
 
 ## Manual Testing
@@ -41,7 +43,10 @@ All pages of the website were tested using the [W3C official HTML validation too
 
 A previous pass through this tool showed multiple errors related to 'trailing slash on void elements'. An autoformat option has to be changed on the CodeAnywhere IDE in order to rectify these.
 
-![Screenshot of W3C HTML Validation](assets/readme-files/html-validation.png)
+![Screenshot of W3C HTML Validation - Home Page](assets/readme-files/html-validation.png)
+![Screenshot of W3C HTML Validation - About Us Page](assets/readme-files/html-validation-about.png)
+![Screenshot of W3C HTML Validation - Our Services Page](assets/readme-files/html-validation-services.png)
+![Screenshot of W3C HTML Validation - Contact Us Page](assets/readme-files/html-validation-contact.png)
 
 ### CSS Validation
 
