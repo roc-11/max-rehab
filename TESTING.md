@@ -91,21 +91,21 @@ Manual testing was conducted on the following elements that appear on every page
 
 - Clicking on the Navigation Bar's links will bring the user to the specified page.
 
-     ![Navigation Bar page links](assets/readme-files/)
+     ![Navigation Bar page links](assets/readme-files/manual-testing-navigation-bar.gif)
 
 - Clicking on the Social Media links will open a new tab
 
      Facebook:
 
-![Facebook Social Media link](assets/readme-files/)
+![Facebook Social Media link](assets/readme-files/manual-testing-socials-facebook.gif)
 
      Twitter:
 
-![Twitter Social Media link](assets/readme-files/)
+![Twitter Social Media link](assets/readme-files/manual-testing-socials-twitter.gif)
 
      Instagram:
 
-![Instagram Social Media link](assets/readme-files/)
+![Instagram Social Media link](assets/readme-files/manual-testing-socials-instagram.gif)
 
 ### Home Page
 Manual testing was conducted on the following elements of the [Home Page](index.html):
