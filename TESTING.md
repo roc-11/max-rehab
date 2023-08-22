@@ -112,15 +112,15 @@ Manual testing was conducted on the following elements of the [Home Page](index.
 
 - Clicking the "book now" button will bring you to the Contact Us page. 
 
-![Competition Banner - Home Page](assets/)
+![Book Now Button - Home Page](assets/readme-files/manual-testing-booknow-button.gif)
 
 - Clicking the "view all services" button will bring you to the Our Services page. 
 
-!["See More" Link - Home Page](assets/)
+![View All Services Button - Home Page](assets/readme-files/manual-testing-allservices-button.gif)
 
 - The responsiveness of the Home page
 
-![Responsiveness - Home Page](assets/)
+![Responsiveness - Home Page](assets/readme-files/manual-testing-homepage-responsive.gif)
 
 ### About Us Page
 
