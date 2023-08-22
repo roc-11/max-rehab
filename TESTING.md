@@ -99,38 +99,38 @@ Manual testing was conducted on the following elements that appear on every page
 
      Facebook:
 
-![Facebook Social Media link](assets/readme-files/manual-testing-socials-facebook.gif)
+    ![Facebook Social Media link](assets/readme-files/manual-testing-socials-facebook.gif)
 
      Twitter:
 
-![Twitter Social Media link](assets/readme-files/manual-testing-socials-twitter.gif)
+    ![Twitter Social Media link](assets/readme-files/manual-testing-socials-twitter.gif)
 
      Instagram:
 
-![Instagram Social Media link](assets/readme-files/manual-testing-socials-instagram.gif)
+    ![Instagram Social Media link](assets/readme-files/manual-testing-socials-instagram.gif)
 
 - Clicking on the telephone number in the footer will allow the user to directly call the company on mobile devices, and give the user the option to open Skype or other such applications (if they are installed)
 
-![Telephone link Functionality](assets/readme-files/manual-testing-telephone.gif)
+    ![Telephone link Functionality](assets/readme-files/manual-testing-telephone.gif)
 
 - Clicking on the email address in the footer will open the default email application on the user's device
   
-![Email link Functionality](assets/readme-files/manual-testing-email.gif)
+    ![Email link Functionality](assets/readme-files/manual-testing-email.gif)
 
 ### Home Page
 Manual testing was conducted on the following elements of the [Home Page](index.html):
 
 - Clicking the "book now" button will bring you to the Contact Us page. 
 
-![Book Now Button - Home Page](assets/readme-files/manual-testing-booknow-button.gif)
+    ![Book Now Button - Home Page](assets/readme-files/manual-testing-booknow-button.gif)
 
 - Clicking the "view all services" button will bring you to the Our Services page. 
 
-![View All Services Button - Home Page](assets/readme-files/manual-testing-allservices-button.gif)
+    ![View All Services Button - Home Page](assets/readme-files/manual-testing-allservices-button.gif)
 
 - The responsiveness of the Home page
 
-![Responsiveness - Home Page](assets/readme-files/manual-testing-homepage-responsive.gif)
+    ![Responsiveness - Home Page](assets/readme-files/manual-testing-homepage-responsive.gif)
 
 ### About Us Page
 
@@ -138,7 +138,7 @@ Manual testing was conducted on the following elements of the [About Us Page](ab
 
 - The responsiveness of the About Us page
 
-![Responsiveness - About Us Page](assets/readme-files/manual-testing-aboutus-responsive.gif)
+    ![Responsiveness - About Us Page](assets/readme-files/manual-testing-aboutus-responsive.gif)
 
 ### Our Services Page
 
@@ -146,32 +146,30 @@ Manual testing was conducted on the following elements of the [Our Services Page
 
 - Clicking on the YouTube video controls will allow the user to play and pause the video, among other controls.
   
-![YouTube Video - Our Services Page](assets/readme-files/manual-testing-services-youtube.gif)
+    ![YouTube Video - Our Services Page](assets/readme-files/manual-testing-services-youtube.gif)
 
 - The responsiveness of the Our Services page
 
-![Responsiveness - Our Services Page](assets/readme-files/manual-testing-services-responsive.gif)
+    ![Responsiveness - Our Services Page](assets/readme-files/manual-testing-services-responsive.gif)
 
 ### Contact Us Page
 Manual testing was conducted on the following elements of the [Contact Us Page](contact.html):
 
 - When filling out the contact form, the user must complete all fields before submitting. Hovering over the submit button will trigger `hover` effect, highlighting the button for the user.
 
-![Form required fields - Contact Us Page](assets/readme-files/manual-testing-contactus-form.gif)
+    ![Form required fields - Contact Us Page](assets/readme-files/manual-testing-contactus-form.gif)
 
 - The responsiveness of the Contact Us page
 
-![Responsiveness - Contact Us Page](assets/readme-files/manual-testing-contact-responsive.gif)
+    ![Responsiveness - Contact Us Page](assets/readme-files/manual-testing-contact-responsive.gif)
 
 ### Error Pages - 404 and 500 Error Pages
 
 - The 404 and 500 error pages have a home button. Clicking on the "home" button will bring the user to the home page [index.html](index.html).
   
-![Home Button - Error Pages](assets/readme-files/manual-testing-errorpages-home-button.gif)
+    ![Home Button - Error Pages](assets/readme-files/manual-testing-errorpages-home-button.gif)
   
 - The responsiveness of the error pages.
-
-![Responsiveness - All Error Pages](assets/readme-files/manual-testing-errorpages-responsive.gif)
 
 ## Validator Testing
 
