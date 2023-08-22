@@ -82,6 +82,8 @@ The aim of this website to provide users with information about Max Rehab Physio
 * Learn about the services Max Rehab offers
 * Find out what to expect from a first visit to Max Rehab
 
+[Back to top ⇧](#max-rehab-physiotherapy)
+
 ## UX
 
 ### Ideal User Demographic
@@ -193,6 +195,8 @@ The imagery used on the site was sourced from various sites, mainly Pexels, Pixa
 
 The main hero image (on homepage, about us and our services) is by ['Pololia'](https://stock.adobe.com/images/id/244750183?clickref=1011lwXM47CC&mv=affiliate&mv2=pz&as_camptype=&as_channel=affiliate&as_source=partnerize&as_campaign=wbm&asset_id=244750183) on Adobe Stock. The contact form background image is by artist [RDNE Stock project](https://www.pexels.com/photo/a-woman-getting-cupping-therapy-8313254/) on Pexels. 
 
+[Back to top ⇧](#max-rehab-physiotherapy)
+
 ## Features
 
 ### Navigation
@@ -288,6 +292,8 @@ The main hero image (on homepage, about us and our services) is by ['Pololia'](h
 
 If the website were to be deployed in real-life, an online booking system would need to be part of the site's functionality. This was beyond the scope of this project, however, it would greatly add to the user experience of the Max Rehab site.
 
+[Back to top ⇧](#max-rehab-physiotherapy)
+
 ## Technologies Used
 
 ### Main Languages Used
@@ -329,6 +335,8 @@ If the website were to be deployed in real-life, an online booking system would 
 
 Testing information can be found in a separate testing [file](TESTING.md "Link to testing file")
 
+[Back to top ⇧](#max-rehab-physiotherapy)
+
 ## Responsiveness
 
 Google Webdev tools were used throughout the project in order to ensure the site was responsive and user-friendly across a range of device and screen sizes.
@@ -341,6 +349,8 @@ There were responsivity issues regarding the display of all pages on large devic
 
 The website is full responsive and all functions are displayed correctly.
 
+[Back to top ⇧](#max-rehab-physiotherapy)
+
 ## Bugs/Known Issues
 
 During initial testing, there were a few bugs discovered. After testing for various screen sized, there was a lot of work to do in oder to make the website responsive. The necessary changes were made an the website is now fully responsive. 
@@ -348,6 +358,8 @@ During initial testing, there were a few bugs discovered. After testing for vari
 The reviews section was intended to be a slider effect. The homepage initially has a CSS slider of review images, coded using this [YouTube tutorial](https://www.youtube.com/watch?v=McPdzhLRzCg). The slider was not smooth and caused issues with the site scrollbar. Upon the advice of my mentor, I removed this an replaced it with a row of more visually appealing blockquotes. A JavaScript slider would have been more effective but this is beyond the scope of this project.
 
 There are currently no known bugs/issues with the website.
+
+[Back to top ⇧](#max-rehab-physiotherapy)
 
 ## Deployment
 
@@ -366,6 +378,7 @@ automation' section.
 6. Upon selection, the page will automatically refresh meaning that the website is now deployed.
 7. Scroll back down to the 'Pages' section to retrieve the deployed [link](https://roc-11.github.io/max-rehab/)
 
+[Back to top ⇧](#max-rehab-physiotherapy)
 
 ## Credits
 
@@ -392,8 +405,12 @@ The developer consulted multiple sites in order to better understand the code th
 * The code for the 'about our team' section was inspired and adapted from Code Institute student Kristian D Smith's webiste for ['Wave'](https://kristiandsmith.github.io/wave-project-1-official/ "Link to Wave homepage"). The respository can be found [here](https://github.com/KristianDsmith/wave-project-1-official/tree/main "Link to Wave repo").
 * The code for the contact form was adapted from the [Code Institute](https://codeinstitute.net/ie/ "Link to Code Institute homepage") Love Running Project.
 
+[Back to top ⇧](#max-rehab-physiotherapy)
+
 ## Acknowledgements
 
 * My mentor Koko for helpful feedback, guidance and encouragement at all stages of the project.
 * Code Institute Slack community for their helpful opinions, advice and feedback. 
+
+[Back to top ⇧](#max-rehab-physiotherapy)
   
